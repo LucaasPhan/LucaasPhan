@@ -1,5 +1,5 @@
 # Huy Phan Nhat (Lucas Phan)
-Software Developer | Tech Enthusiast | Aviation Geek
+`Software Developer | Tech Enthusiast | Aviation Geek`
 
 Hi there! I'm a developer who loves building practical, high-impact software. My work ranges from full-stack web apps to systems engineering and data science. I'm especially passionate about applying technology to aviation, education, and creative fields.
 
@@ -25,7 +25,7 @@ I enjoy working across the stack, from low-level systems to modern web architect
 ## 🚀 Featured Projects
 
 ### Aviation & Systems
-*   **VCLvACDM**: A comprehensive Airport Collaborative Decision Making (A-CDM) system for the VCLvACC (Vietnam Cambodia Laos virtual Area Control Center). It includes a custom C++ EuroScope plugin, a NestJS/Neon PostgreSQL backend, and a real-time Next.js dashboard.
+*   **VCLvACDM**: A comprehensive VATSIM virtual Airport Collaborative Decision Making (A-CDM) system for the VCLvACC (Vietnam Cambodia Laos virtual Area Control Center). It includes a custom C++ EuroScope plugin, a NestJS/Neon PostgreSQL backend, and a real-time Next.js dashboard.
 *   **EchoRoute**: A Realistic UI architecture built with Next.js, designed for interactive routing and navigation visualization.
 *   **Pseudocode Compiler**: A Python-based interpreter and executor for the specific pseudocode language used by CAIE, featuring keyword parsing and logical execution.
 
